@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephi5926
 - 👀 I’m interested in Web e
 - 🌱 I’m currently learning HTML and CSS ...
-- 💞️ I’m looking to collaborate on .Yikes..
+- 💞️ I’m looking to collaborate on .flowers
 - 📫 How to reach me ...
 
 <!---
