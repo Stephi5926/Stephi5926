@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Stephi5926
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning and that won't end
-- 💞 I’m looking to collaborate on concepts, codes,ideas.
-- 📫 How to reach me -leave notes-more later
- 
+- 👋 Hi, I’m @Stephi5926 
+- 👀I am a new web developer
+- All of my repositories are of the same project
+- The intend is to merge all the bits
+- Some may remain separate depending on experiment results
+- The finished product will move to the next level with the 
+- same process.
+- Once merged the software is intended to be user friendly
+- email to follow
+- team details to follow.
+- I intend that this be fun for all involved.
+- 
+- 
 
