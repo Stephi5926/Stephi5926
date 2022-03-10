@@ -9,6 +9,5 @@
 - email to follow
 - team details to follow.
 - I intend that this be fun for all involved.
-- 
-- 
-
+- I also intend this to be a great project
+-Iam excited but it will be challenging.
